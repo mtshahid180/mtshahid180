@@ -44,26 +44,17 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Coding animation"/>
 </div>
 
-<p align="center">
-  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22" alt="wave"/>! I'm <b>Talha Shahid</b>, an aspiring <b>Applied AI and GenAI Engineer</b> passionate about building practical applications powered by Large Language Models.<br/>
-  I'm exploring how AI components connect to create useful systems, from document retrieval and embeddings to agent workflows, APIs, and deployment.
-</p>
-
-<div align="center">
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Core_Interests-Agentic_AI_•_GenAI_•_LLM_Apps-0D1117?style=flat-square&logoColor=00F5FF&labelColor=00F5FF&color=0D1117"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Exploring-RAG_•_Embeddings_•_Vector_Search_•_Agents-0D1117?style=flat-square&logoColor=00F5FF&labelColor=00F5FF&color=0D1117"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Stack-Python_•_LangGraph_•_LangChain_•_FastAPI-0D1117?style=flat-square&logoColor=00F5FF&labelColor=00F5FF&color=0D1117"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Cloud-Vercel_•_Render_•_AWS-0D1117?style=flat-square&logoColor=00F5FF&labelColor=00F5FF&color=0D1117"/>
-</p>
+> 🤖 **CORE INTERESTS** &nbsp;|&nbsp; Agentic AI • Generative AI • LLM Applications
+
+> 🧠 **CURRENTLY EXPLORING** &nbsp;|&nbsp; RAG • Embeddings • Vector Search • AI Agents
+
+> 🐍 **BACKEND & DEV** &nbsp;|&nbsp; Python • LangGraph • LangChain • FastAPI
+
+> ☁️ **INFRA & CLOUD** &nbsp;|&nbsp; Vercel • Render • AWS
+
+> 🎯 **GOAL** &nbsp;|&nbsp; Applied AI Engineer • GenAI Engineer • LLM Application Engineer
 
 </div>
 
