@@ -1,102 +1,131 @@
+
 <div align="center">
 
-# Hi, I'm Talha Shahid 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=Talha%20Shahid&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Aspiring%20Applied%20AI%20%7C%20Agentic%20AI%20%7C%20GenAI%20Engineer&descSize=16&descAlignY=58" width="100%" alt="Profile Header"/>
 
-### Aspiring Applied AI Engineer | Generative AI • RAG • Agentic AI
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Exploring+Agentic+AI+%26+LLM+Applications;Building+with+RAG%2C+LangGraph+%26+FastAPI;Turning+AI+Ideas+into+Useful+Systems" alt="Typing SVG"/>
+</a>
 
-I build practical AI applications and learn by turning concepts into working systems.
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mtshahid180)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammmad-talha-shahid-1a78512b6)
+<a href="https://www.linkedin.com/in/muhammmad-talha-shahid-1a78512b6">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/mtshahid180">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=mtshahid180&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm an aspiring AI engineer focused on building useful applications with Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and agent-based workflows.
+Hey there! I'm **Talha Shahid**, an aspiring **Applied AI / Agentic AI Engineer** passionate about building practical applications powered by Large Language Models.
 
-I enjoy exploring how AI components work together—from document ingestion and embeddings to retrieval, orchestration, and API-based applications. My current focus is strengthening my engineering fundamentals by building, testing, debugging, and documenting practical projects.
+I'm exploring how to connect LLMs, retrieval systems, APIs, and agent workflows to build useful AI applications.
 
-- 🔭 **Currently building:** Document-based RAG applications and AI engineering projects.
-- 🌱 **Learning:** LLM application development, embeddings, vector search, LangGraph, and FastAPI.
-- 🧰 **How I work:** Hands-on experimentation, AI-assisted development, iterative debugging, and clear documentation.
-- 🎯 **Career focus:** Entry-level / associate opportunities in Applied AI and Generative AI engineering.
-- 🤝 **Open to:** Learning opportunities, collaboration, and feedback on practical AI projects.
+- 🤖 Interested in Agentic AI, Generative AI, and LLM Applications
+- 🧠 Exploring RAG, embeddings, vector search, and AI agents
+- 🛠️ Learning Python, LangGraph, LangChain, and FastAPI
+- ⚙️ Interested in AI automation, tool calling, and workflow design
+- 📚 Focused on practical learning and strengthening AI engineering skills
+- 🎯 Career interests: Applied AI Engineer, GenAI Engineer, and LLM Application Engineer
 
-## Technical Interests
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/LLM_Applications-412991?style=flat-square" alt="LLM Applications" />
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/Embeddings_%26_Vector_Search-475569?style=flat-square" alt="Embeddings and vector search" />
-  <img src="https://img.shields.io/badge/LangGraph-1F6FEB?style=flat-square" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub" />
-</p>
-
-*These are areas I'm learning and applying in projects; the repositories below show my current hands-on work.*
-
-## Featured Projects
-
-### 1. Engineering Manual RAG
-**Focus:** Ask questions over technical PDF documentation.
-
-A work-in-progress project exploring a document question-answering workflow for engineering manuals. The aim is to make technical information easier to retrieve from source documents.
-
-**Areas explored**
-- PDF ingestion and text extraction
-- Document chunking and embeddings
-- Retrieval and question answering
-- API usage, error handling, and debugging
-
-**Tech:** Python · LLM APIs · Embeddings · RAG
-
-➡️ **Repository:** [Add your engineering RAG repository URL](YOUR-ENGINEERING-RAG-REPO-URL)
-
-### 2. [Project Name]
-**Focus:** [One-line problem this project solves.]
-
-Briefly describe what the application does, who it helps, and what you implemented. Keep this section factual and specific.
-
-**Highlights**
-- [Feature or component you built]
-- [Important technical decision or learning]
-- [How someone can run or test it]
-
-**Tech:** [Only list technologies actually used]
-
-➡️ **Repository:** [Add repository URL](YOUR-SECOND-REPO-URL)
-
-### 3. [Project Name]
-**Focus:** [One-line problem this project solves.]
-
-Describe the project in two or three concise sentences. Explain the result rather than listing code files.
-
-**Highlights**
-- [Feature or component you built]
-- [What you learned or improved]
-- [Demo, tests, or example output, if available]
-
-**Tech:** [Only list technologies actually used]
-
-➡️ **Repository:** [Add repository URL](YOUR-THIRD-REPO-URL)
-
-## What I'm Working Toward
-
-My goal is to build reliable AI applications that are useful beyond a demo. I'm particularly interested in the engineering work behind production-oriented GenAI systems: data preparation, retrieval quality, orchestration, API design, evaluation, error handling, and maintainability.
-
-I value honest documentation, continuous learning, and being able to explain how a project works—not just generate code that runs.
-
-## Connect
-
-- **LinkedIn:** [Add your LinkedIn profile](YOUR-LINKEDIN-URL)
-- **Email:** [Add a professional contact email, if you want it public](YOUR-PUBLIC-EMAIL)
+<div align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="AI and coding animation"/>
+</div>
 
 ---
 
+## 🧠 Areas of Interest
+
 <div align="center">
-  <sub>Building consistently. Learning in public. Improving one project at a time.</sub>
+
+| 🤖 Agentic AI | ✨ Generative AI | 🔎 LLM Applications |
+|---|---|---|
+| AI Agents | Large Language Models | Retrieval-Augmented Generation |
+| Agent Workflows | Prompt Engineering | Embeddings |
+| Tool Calling | AI-powered Solutions | Vector Search |
+| LangGraph | LLM Integration | Context Retrieval |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI & LLM Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Agentic_AI-Exploring-7C3AED?style=for-the-badge" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/Generative_AI-Exploring-8B5CF6?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLM_Applications-Learning-6D28D9?style=for-the-badge" alt="LLM Applications"/>
+<img src="https://img.shields.io/badge/RAG-Learning-0F766E?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Embeddings-Learning-0D9488?style=for-the-badge" alt="Embeddings"/>
+</p>
+
+### 🐍 Programming & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,vscode" alt="Python, FastAPI, Git, GitHub, VS Code"/>
+<img src="https://img.shields.io/badge/LangGraph-Learning-1C3C3C?style=for-the-badge" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LangChain-Learning-1C3C3C?style=for-the-badge" alt="LangChain"/>
+<img src="https://img.shields.io/badge/REST_APIs-Practice-2563EB?style=for-the-badge" alt="REST APIs"/>
+</p>
+
+### 🧪 Machine Learning & Deep Learning
+
+<p>
+<img src="https://img.shields.io/badge/Machine_Learning-Foundations-F59E0B?style=for-the-badge" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Deep_Learning-Exploring-EA580C?style=for-the-badge" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/Neural_Networks-Learning-DC2626?style=for-the-badge" alt="Neural Networks"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mtshahid180&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mtshahid180&hide_border=true&background=0D1117&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtshahid180&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🌱 Currently Growing
+
+- Understanding how AI agent nodes, tools, and state work together
+- Exploring RAG pipelines and document-based question answering
+- Learning to design reliable LLM-powered workflows
+- Improving Python and API integration skills
+- Working toward practical Applied AI engineering capabilities
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer coding animation"/>
+
+### 💬 Let's Connect!
+
+Interested in **Agentic AI, Generative AI, LLM Applications, or AI Engineering?**
+
+Let's connect and learn from each other.
+
+<a href="https://www.linkedin.com/in/muhammmad-talha-shahid-1a78512b6">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=100&section=footer" width="100%" alt="Footer"/>
+
 </div>
