@@ -1,11 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0A3A4A,100:00F5FF&height=260&section=header&text=TALHA%20SHAHID&fontSize=64&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=APPLIED%20AI%20%7C%20AGENTIC%20AI%20%7C%20GENERATIVE%20AI&descSize=18&descColor=E6FBFF&descAlignY=62" alt="Talha Shahid Profile Banner"/>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" alt="wave"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3A4A,100:00F5FF&height=170&section=header" alt="Header"/>
 
 <a href="https://github.com/mtshahid180">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=Exploring+Agentic+AI+and+LLM+Applications;Learning+RAG%2C+LangGraph+and+FastAPI;Turning+AI+Ideas+into+Useful+Systems" alt="Animated typing text"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=46&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=80&lines=TALHA+SHAHID;APPLIED+AI+ENGINEER;AGENTIC+AI+%7C+GENERATIVE+AI" alt="Talha Shahid"/>
+</a>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="wave"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="sticker"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="wave"/>
+
+<a href="https://github.com/mtshahid180">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=C9D1D9&center=true&vCenter=true&width=700&height=40&lines=Exploring+Agentic+AI+and+LLM+Applications;Learning+RAG%2C+LangGraph+and+FastAPI;Turning+AI+Ideas+into+Useful+Systems" alt="Animated typing text"/>
 </a>
 
 <br/>
@@ -48,61 +54,33 @@ I'm exploring how AI components connect to create useful applications,<br/>
 from document retrieval and embeddings to agent workflows, APIs, and deployment.
 </p>
 
-<div align="center">
-
-| | |
-|:---:|:---|
-| 🤖 | **Core interests** · Agentic AI, Generative AI, LLM Applications |
-| 🧠 | **Exploring** · RAG, embeddings, vector search, AI agents |
-| 🐍 | **Development** · Python, LangGraph, LangChain, FastAPI |
-| ☁️ | **Cloud interests** · Vercel, Render, AWS |
-| 📚 | **Learning approach** · Hands-on experimentation and practical AI engineering |
-| 🎯 | **Career direction** · Applied AI Engineer, GenAI Engineer, LLM Application Engineer |
-
-</div>
+<p align="center">
+🤖 <b>Core interests:</b> Agentic AI, Generative AI, LLM Applications<br/><br/>
+🧠 <b>Exploring:</b> RAG, embeddings, vector search, AI agents<br/><br/>
+🐍 <b>Development:</b> Python, LangGraph, LangChain, FastAPI<br/><br/>
+☁️ <b>Cloud interests:</b> Vercel, Render, AWS<br/><br/>
+📚 <b>Learning approach:</b> Hands-on experimentation and practical AI engineering<br/><br/>
+🎯 <b>Career direction:</b> Applied AI Engineer, GenAI Engineer, LLM Application Engineer
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <h2 align="center">🧭 AI ENGINEERING INTERESTS 🧭</h2>
 
-<div align="center">
+<h3 align="center">🤖 Agentic AI</h3>
+<p align="center">
+<code>Agent workflows</code> · <code>Tool calling</code> · <code>State and orchestration</code> · <code>LangGraph</code>
+</p>
 
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
+<h3 align="center">✨ Generative AI</h3>
+<p align="center">
+<code>Large Language Models</code> · <code>Prompt engineering</code> · <code>LLM integrations</code> · <code>AI-powered applications</code>
+</p>
 
-### 🤖 Agentic AI
-
-`Agent workflows`  
-`Tool calling`  
-`State and orchestration`  
-`LangGraph`
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### ✨ Generative AI
-
-`Large Language Models`  
-`Prompt engineering`  
-`LLM integrations`  
-`AI-powered applications`
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### 🔎 LLM Applications
-
-`Retrieval-Augmented Generation`  
-`Embeddings`  
-`Vector search`  
-`Context-grounded answers`
-
-</td>
-</tr>
-</table>
-
-</div>
+<h3 align="center">🔎 LLM Applications</h3>
+<p align="center">
+<code>Retrieval-Augmented Generation</code> · <code>Embeddings</code> · <code>Vector search</code> · <code>Context-grounded answers</code>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
@@ -172,18 +150,14 @@ from document retrieval and embeddings to agent workflows, APIs, and deployment.
 
 <h2 align="center">🎯 CURRENT LEARNING DIRECTION 🎯</h2>
 
-<div align="center">
-
-| 🧩 AREA | 🔭 FOCUS |
-|:---|:---|
-| **Agentic AI** | Agents, tools, state and workflow orchestration |
-| **LLM Engineering** | Prompting, context management and structured outputs |
-| **RAG Systems** | Document processing, retrieval, embeddings and citations |
-| **Backend Engineering** | Python, FastAPI and REST API integration |
-| **ML / Deep Learning** | Strengthening foundational concepts |
-| **Cloud & Deployment** | Exploring Vercel, Render and AWS |
-
-</div>
+<p align="center">
+🤖 <b>Agentic AI</b> — Agents, tools, state and workflow orchestration<br/><br/>
+🧠 <b>LLM Engineering</b> — Prompting, context management and structured outputs<br/><br/>
+🔎 <b>RAG Systems</b> — Document processing, retrieval, embeddings and citations<br/><br/>
+🐍 <b>Backend Engineering</b> — Python, FastAPI and REST API integration<br/><br/>
+📈 <b>ML / Deep Learning</b> — Strengthening foundational concepts<br/><br/>
+☁️ <b>Cloud & Deployment</b> — Exploring Vercel, Render and AWS
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
@@ -197,7 +171,7 @@ from document retrieval and embeddings to agent workflows, APIs, and deployment.
 <br/><br/>
 
 <a href="https://github.com/mtshahid180">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Learn+continuously.;Build+practically.;Improve+consistently." alt="Motto"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Learn+continuously.;Build+practically.;Improve+consistently." alt="Motto"/>
 </a>
 
 <br/>
@@ -233,4 +207,4 @@ Let's connect and exchange ideas.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,50:0A3A4A,100:0D1117&height=140&section=footer&text=BUILD.%20LEARN.%20ITERATE.&fontSize=22&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" alt="Profile footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0A3A4A,100:0D1117&height=140&section=footer&text=BUILD.%20LEARN.%20ITERATE.&fontSize=22&fontColor=FFFFFF&fontAlignY=70" alt="Profile footer"/>
