@@ -50,21 +50,19 @@
 </p>
 
 <div align="center">
+<div align="center">
 
 <p>
-  <code>🤖 CORE INTERESTS</code> &nbsp; Agentic AI · Generative AI · LLM Applications
+  <img src="https://img.shields.io/badge/Core_Interests-Agentic_AI_•_GenAI_•_LLM_Apps-0D1117?style=flat-square&logoColor=00F5FF&labelColor=00F5FF&color=0D1117"/>
 </p>
 <p>
-  <code>🧠 EXPLORING</code> &nbsp; RAG · Embeddings · Vector Search · AI Agents
+  <img src="https://img.shields.io/badge/Exploring-RAG_•_Embeddings_•_Vector_Search_•_Agents-0D1117?style=flat-square&logoColor=00F5FF&labelColor=00F5FF&color=0D1117"/>
 </p>
 <p>
-  <code>🐍 DEVELOPMENT</code> &nbsp; Python · LangGraph · LangChain · FastAPI
+  <img src="https://img.shields.io/badge/Stack-Python_•_LangGraph_•_LangChain_•_FastAPI-0D1117?style=flat-square&logoColor=00F5FF&labelColor=00F5FF&color=0D1117"/>
 </p>
 <p>
-  <code>☁️ CLOUD</code> &nbsp; Vercel · Render · AWS
-</p>
-<p>
-  <code>🎯 CAREER DIRECTION</code> &nbsp; Applied AI Engineer · GenAI Engineer · LLM Application Engineer
+  <img src="https://img.shields.io/badge/Cloud-Vercel_•_Render_•_AWS-0D1117?style=flat-square&logoColor=00F5FF&labelColor=00F5FF&color=0D1117"/>
 </p>
 
 </div>
