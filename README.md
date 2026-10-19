@@ -111,11 +111,7 @@
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mtshahid180&bg_color=0D1117&color=C9D1D9&line=00F5FF&point=FFFFFF&area=true&area_color=00F5FF&hide_border=true" alt="Contribution activity graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mtshahid180&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub trophies"/>
+<img width="100%" src="https://ghchart.rshah.org/00F5FF/mtshahid180" alt="Talha Shahid's GitHub Contribution Graph"/>
 
 </div>
 
