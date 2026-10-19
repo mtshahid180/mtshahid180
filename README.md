@@ -1,21 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3A4A,100:00F5FF&height=240&section=header&text=TALHA%20SHAHID&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=APPLIED%20AI%20%7C%20AGENTIC%20AI%20%7C%20GENERATIVE%20AI&descSize=16&descColor=E6FBFF&descAlignY=58" alt="Talha Shahid Profile Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0A3A4A,100:00F5FF&height=260&section=header&text=TALHA%20SHAHID&fontSize=64&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=APPLIED%20AI%20%7C%20AGENTIC%20AI%20%7C%20GENERATIVE%20AI&descSize=18&descColor=E6FBFF&descAlignY=62" alt="Talha Shahid Profile Banner"/>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" alt="wave"/>
 
 <a href="https://github.com/mtshahid180">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Exploring+Agentic+AI+and+LLM+Applications;Learning+RAG%2C+LangGraph+and+FastAPI;Turning+AI+Ideas+into+Useful+Systems" alt="Animated typing text"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=Exploring+Agentic+AI+and+LLM+Applications;Learning+RAG%2C+LangGraph+and+FastAPI;Turning+AI+Ideas+into+Useful+Systems" alt="Animated typing text"/>
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/muhammmad-talha-shahid-1a78512b6">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0D1117&color=00F5FF" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn"/>
 </a>
 <a href="mailto:mtshahid180@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=0D1117&color=00F5FF" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-00F5FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email"/>
 </a>
 <a href="https://github.com/mtshahid180">
-<img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D1117&color=00F5FF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -26,10 +28,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<h2 align="center">⚡ About Me</h2>
+<h2 align="center">⚡ ABOUT ME ⚡</h2>
+
+<div align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230" alt="Technology animation"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="sticker"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="230" alt="Coding animation"/>
+</div>
+
+<br/>
 
 <p align="center">
-Hey! I'm <b>Talha Shahid</b>, an aspiring <b>Applied AI and GenAI Engineer</b><br/>
+Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="wave"/>! I'm <b>Talha Shahid</b>, an aspiring <b>Applied AI and GenAI Engineer</b><br/>
 passionate about building practical applications powered by Large Language Models.
 </p>
 
@@ -53,7 +63,7 @@ from document retrieval and embeddings to agent workflows, APIs, and deployment.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<h2 align="center">🧭 AI Engineering Interests</h2>
+<h2 align="center">🧭 AI ENGINEERING INTERESTS 🧭</h2>
 
 <div align="center">
 
@@ -96,7 +106,7 @@ from document retrieval and embeddings to agent workflows, APIs, and deployment.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ TECH STACK 🛠️</h2>
 
 <h3 align="center">Artificial Intelligence & LLMs</h3>
 
@@ -137,7 +147,7 @@ from document retrieval and embeddings to agent workflows, APIs, and deployment.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 GITHUB ANALYTICS 📊</h2>
 
 <div align="center">
 
@@ -160,7 +170,7 @@ from document retrieval and embeddings to agent workflows, APIs, and deployment.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<h2 align="center">🎯 Current Learning Direction</h2>
+<h2 align="center">🎯 CURRENT LEARNING DIRECTION 🎯</h2>
 
 <div align="center">
 
@@ -177,11 +187,20 @@ from document retrieval and embeddings to agent workflows, APIs, and deployment.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<h2 align="center">💭 Beyond the Code</h2>
+<h2 align="center">💭 BEYOND THE CODE 💭</h2>
 
 <div align="center">
 
-> ### *Learn continuously. Build practically. Improve consistently.*
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Developer working at a computer"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Typing animation"/>
+
+<br/><br/>
+
+<a href="https://github.com/mtshahid180">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Learn+continuously.;Build+practically.;Improve+consistently." alt="Motto"/>
+</a>
+
+<br/>
 
 I'm working toward becoming an engineer who can turn AI concepts into reliable, useful applications.
 
@@ -189,7 +208,7 @@ I'm working toward becoming an engineer who can turn AI concepts into reliable, 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="center">🤝 LET'S CONNECT 🤝</h2>
 
 <div align="center">
 
@@ -206,12 +225,12 @@ Let's connect and exchange ideas.
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/muhammmad-talha-shahid-1a78512b6">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF&color=00F5FF" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/mtshahid180">
-<img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF&color=00F5FF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub"/>
 </a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0A3A4A,100:0D1117&height=120&section=footer&text=BUILD.%20LEARN.%20ITERATE.&fontSize=20&fontColor=FFFFFF&fontAlignY=65" alt="Profile footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,50:0A3A4A,100:0D1117&height=140&section=footer&text=BUILD.%20LEARN.%20ITERATE.&fontSize=22&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" alt="Profile footer"/>
