@@ -51,13 +51,21 @@
 
 <div align="center">
 
-| Area | Focus Topics |
-| :--- | :--- |
-| 🤖 **Core Interests** | Agentic AI, Generative AI, LLM Applications |
-| 🧠 **Exploring** | RAG, Embeddings, Vector Search, AI Agents |
-| 🐍 **Development** | Python, LangGraph, LangChain, FastAPI |
-| ☁️ **Cloud** | Vercel, Render, AWS |
-| 🎯 **Career Direction** | Applied AI Engineer, GenAI Engineer, LLM Application Engineer |
+<p>
+  <code>🤖 CORE INTERESTS</code> &nbsp; Agentic AI · Generative AI · LLM Applications
+</p>
+<p>
+  <code>🧠 EXPLORING</code> &nbsp; RAG · Embeddings · Vector Search · AI Agents
+</p>
+<p>
+  <code>🐍 DEVELOPMENT</code> &nbsp; Python · LangGraph · LangChain · FastAPI
+</p>
+<p>
+  <code>☁️ CLOUD</code> &nbsp; Vercel · Render · AWS
+</p>
+<p>
+  <code>🎯 CAREER DIRECTION</code> &nbsp; Applied AI Engineer · GenAI Engineer · LLM Application Engineer
+</p>
 
 </div>
 
